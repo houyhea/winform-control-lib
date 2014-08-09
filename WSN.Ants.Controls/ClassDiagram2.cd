@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WSN.Ants.Controls.BrushParameter" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAAgACQAAA=</HashCode>
+      <FileName>BrushParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.CheckImageTable" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAEAAAEAIAQAFAAEAAAgAAAABIAIAAA=</HashCode>
+      <FileName>CheckImageTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.FaceStyle" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oARAQAgBAAAACAQACAAAAEAgAqQAAAAAAJEAQAAEJAA=</HashCode>
+      <FileName>FaceStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.GraphicsPathHelper" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphicsPathHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.Resource" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQCAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNSpliterContainer.RenderHelper" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAABAAAAAAACAAAAAAAAAAAAACAAIAAAAIAAAA=</HashCode>
+      <FileName>RenderHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNSpliterContainer.WSNSpliterContainer" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCIoAAIAVCBAAACABAAACAAABAAAAAAIgEAAEgCCBA=</HashCode>
+      <FileName>WSNSpliterContainer\WSNSpliterContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAngleAltitudeSelector.WSNAngleAltitudeSelector" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSCAAAAACCAAQAAIAECAgABCAYYgAAAAAECAAIBAAAA=</HashCode>
+      <FileName>WSNAngleSelector\WSNAngleAltitudeSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAngleSelector.WSNAngleSelector" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSCAABAACCAAAAAIAAGCAAACAAIAAAAAAEAAAIBAAAA=</HashCode>
+      <FileName>WSNAngleSelector\WSNAngleSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.AutoCompleteTrigger" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\AutoCompleteTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.AutoCompleteTriggerCollection" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAABBAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\AutoCompleteTriggerCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.Messages" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIBAACAAAABAAgCAAAAAAAAAAAAAAYAQAAAAABEEAAQ=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.ShortCutTrigger" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAFAAAABAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\ShortCutTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.TextLengthTrigger" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAQ=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\TextLengthTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DADgAwQAAoQAaIKEUAAMAWAgCCAGggAFACAECWTEhUA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\WinHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.DataInputCompletedEventArgs" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\WSNAutoCompleteTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNButton.WSNButton" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAvIAAQIBoJhBCGAABJCCCgAAAAAQoBAoGAAAAIKACQ=</HashCode>
+      <FileName>WSNButton\WSNButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNButton.WSNButtonImageTable" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAQAAAAgAIAAAAAAAAAAAAAAAAAABAEAgA=</HashCode>
+      <FileName>WSNButton\WSNButtonImageTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNCheckBox.WSNCheckBox">
+    <Position X="10.25" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAIAAAgAAEQAQBAAAAAAIAAAAAAIAAAAAEGAAQ=</HashCode>
+      <FileName>WSNCheckBox\WSNCheckBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNContextMenuStrip.ContextMenuRender" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoCwAAiAIAoAiAJgAACAACpCMAAECEQAAJFNCQAAA=</HashCode>
+      <FileName>WSNContextMenuStrip\ContextMenuRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNContextMenuStrip.WSNContextMenuStrip" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSNContextMenuStrip\WSNContextMenuStrip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNDataGridView.WSNDataGridView" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgHABgEwABQEgAAAAAIBAAAAAAIBGCADAAAAAgAAAAA=</HashCode>
+      <FileName>WSNDataGridView\WSNDataGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNLoadingBox.WSNLoadingBox" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAPAAUAIDCAABAIAAgAoAAAQAgECAQEwBFBAgA4AQAA=</HashCode>
+      <FileName>WSNLoadingBox\WSNLoadingBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNPanel.WSNPanel" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACIIAAAiCABAAAgAAAACAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSNPanel\WSNPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNPopupControlHost.WSNPopupControlHost" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCCIAIAgAAABgACABDAgiAAGAFAEEIAIAgACQAABAIg=</HashCode>
+      <FileName>WSNPopupControlHost\WSNPopupControlHost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNPopupControlHost.NativeMethods" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAACAAEAAAgABAAhAAEAAAAIAAABAAAAAEAAAgAACA=</HashCode>
+      <FileName>WSNPopupControlHost\WSNPopupControlHost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WsnRangeSlideBar.RangeEventArgs" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFA=</HashCode>
+      <FileName>WsnRangeSlideBar\WsnRangeSlideBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNSearchBox.WSNSearchBox" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQWIQAAIQCARCoQAAABACQAjAFAAACDAIAAaCBGCQoQ=</HashCode>
+      <FileName>WSNSearchBox\WSNSearchBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTabControl.Win32" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DEAAgCgAAgAAAAAIIOCCAEDEAAAAsIAAQAQCAACgAxA=</HashCode>
+      <FileName>WSNTabControl\Win32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTabControl.WSNTabControl" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAIABJACAAAAABAACAAAQCmBAAAAAYgBAIACABAAA=</HashCode>
+      <FileName>WSNTabControl\WSNTabControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTabControl.WSNTabControlRender" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggCCAACAAQQAAAEAAAIAAAAAAAAAQAAAAAAgAAAA=</HashCode>
+      <FileName>WSNTabControl\WSNTabControlRender.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTextBox.WSNTextBox" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KCFIAAAIAAAgAAAAAEBACAAAAAAAAAAEACAAYCAAAQQ=</HashCode>
+      <FileName>WSNTextBox\WSNTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTimeSlidePicker.WSNTimeSlidePicker" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQADiAAIJCQAKAAQAgAAACAAAwAAABRQQgBAACgOAQ=</HashCode>
+      <FileName>WSNTimeSlidePicker\TimeSlideHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNToolStrip.WSNNormToolStripRender" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAgAAAAAAAA=</HashCode>
+      <FileName>WSNToolStrip\WSNNormToolStripRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNToolStrip.WSNStatusToolStipRender" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAIAAAACAAAAAAAAAA=</HashCode>
+      <FileName>WSNToolStrip\WSNStatusToolStipRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNToolStrip.WSNToolStripRender" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAADgAAiAIACAAAJgAAAQAAoAAIAEAABIAAAAGUAAA=</HashCode>
+      <FileName>WSNToolStrip\WSNToolStripRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNToolStrip.WSNVideoTitleBarToolStripRender" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSNToolStrip\WSNVideoTitleBarToolStripRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNToolStrip.WSNVideoToolBarToolStripRender" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSNToolStrip\WSNVideoToolBarToolStripRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNTrackBar.WSNTrackBar" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qjHYFBCIgSDgqLiAQADALAAqAFAcCAEAJAEoAAACACQ=</HashCode>
+      <FileName>WSNTrackBar\WSNTrackBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WSN.Ants.Controls.ControlState" Collapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAQAAAAAEAAA=</HashCode>
+      <FileName>ControlState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.RoundStyle" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAACICAAAEAAAA=</HashCode>
+      <FileName>RoundStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.WSNSpliterContainer.HistTest" Collapsed="true">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAA=</HashCode>
+      <FileName>WSNSpliterContainer\HistTest.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.WSNSpliterContainer.SpliterPanelState" Collapsed="true">
+    <Position X="20.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>WSNSpliterContainer\SpliterPanelState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.TriggerState" Collapsed="true">
+    <Position X="11.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAUAAAAAAAAAAEAAACAAAAQAEAAAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\TriggerState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.WsnRangeSlideBar.SelectShowMode" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WsnRangeSlideBar\EnumClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSN.Ants.Controls.WSNToolStrip.ToolStripRenderStyle" Collapsed="true">
+    <Position X="10" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAARAAAgA=</HashCode>
+      <FileName>WSNToolStrip\ToolStripRenderStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

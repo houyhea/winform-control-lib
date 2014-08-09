@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox">
+    <Position X="3.25" Y="1.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox.WinHook" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WSNAutoCompleteTextBox\WinHook.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox.WSNAutoCompleteListBox" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WSNAutoCompleteTextBox\WSNAutoCompleteListBox.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox.WSNAutoCompleteListBoxDrawingItemEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WSNAutoCompleteTextBox\WSNAutoCompleteListBox.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox.WSNAutoCompletePanel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WSNAutoCompleteTextBox\WSNAutoCompletePanel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.WSNAutoCompleteTextBox.EntryMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WSNAutoCompleteTextBox\WSNAutoCompleteTextBox.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>DADgAgQAAoQASIKEUAAMAGAACCAGggAFACAkCWREhUA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\WinHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.DataInputCompletedEventArgs">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\WSNAutoCompleteTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSN.Ants.Controls.WSNAutoCompleteTextBox.SelectItemEventArgs" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>WSNAutoCompleteTextBox\WSNAutoCompleteTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
